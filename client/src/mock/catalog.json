@@ -1,0 +1,110 @@
+{
+  "catalog": [
+    {
+      "labelGroup": "Группа 1",
+      "descriptionGroup": "В группе представлены пластиковые органайзеры всех габаритных размеров. Они имеют одну выдвижную ячейку. Каждый из представленных органайзеров стыковаться может только сам с собой. С другими органайзерами из группы стыковка не возможна. В группе также представлены делители ячеек, которые могут организовывать пространство внутри ячеек группы необходимым вам способом.",
+      "urlProduct": "group1",
+      "listProducts": [
+        {
+          "label": "Контейнер 1",
+          "urlImage": "https://ami.by/images/catalogue/items/box_pb104_0.jpg",
+          "urlProduct": "контейнер1",
+          "code": "1.2"
+        },
+        {
+          "label": "Контейнер 2",
+          "urlImage": "https://ami.by/images/catalogue/items/box_pb104_0.jpg",
+          "urlProduct": "контейнер2",
+          "code": "1.2"
+        },
+        {
+          "label": "Контейнер 3",
+          "urlImage": "https://ami.by/images/catalogue/items/box_pb104_0.jpg",
+          "urlProduct": "контейнер3",
+          "code": "1.2"
+        },
+        {
+          "label": "Контейнер 4",
+          "urlImage": "https://ami.by/images/catalogue/items/box_pb104_0.jpg",
+          "urlProduct": "контейнер4",
+          "code": "1.2"
+        }
+      ]
+    },
+    {
+      "labelGroup": "Группа 2",
+      "descriptionGroup": "В группе представлены органайзеры среднего габарита. Одного размера. Имеют от одно до четырёх выдвижных ячеек. Каждый из представленных органайзеров может стыковаться как сам с собой так и с другими органайзерами из группы.",
+      "urlProduct": "group2",
+      "listProducts": [
+        {
+          "label": "Контейнер 1",
+          "urlImage": "https://ami.by/images/catalogue/items/box_pb104_0.jpg",
+          "urlProduct": "контейнер1",
+          "code": "1.2"
+        },
+        {
+          "label": "Контейнер 2",
+          "urlImage": "https://ami.by/images/catalogue/items/box_pb104_0.jpg",
+          "urlProduct": "контейнер2",
+          "code": "1.2"
+        },
+        {
+          "label": "Контейнер 3",
+          "urlImage": "https://ami.by/images/catalogue/items/box_pb104_0.jpg",
+          "urlProduct": "контейнер3",
+          "code": "1.2"
+        }
+      ]
+    },
+    {
+      "labelGroup": "Группа 3",
+      "descriptionGroup": "В группе представлены органайзеры среднего габарита. Одного размера.  Имеют от трёх до девяти выдвижных ячеек. Каждый из представленных органайзеров может стыковаться как сам с собой так и с другими органайзерами из группы.",
+      "urlProduct": "group3",
+      "listProducts": [
+        {
+          "label": "Контейнер 1",
+          "urlImage": "https://ami.by/images/catalogue/items/box_pb104_0.jpg",
+          "urlProduct": "контейнер1",
+          "code": "1.2"
+        },
+        {
+          "label": "Контейнер 2",
+          "urlImage": "https://ami.by/images/catalogue/items/box_pb104_0.jpg",
+          "urlProduct": "контейнер2",
+          "code": "1.2"
+        },
+        {
+          "label": "Контейнер 3",
+          "urlImage": "https://ami.by/images/catalogue/items/box_pb104_0.jpg",
+          "urlProduct": "контейнер3",
+          "code": "1.2"
+        }
+      ]
+    },
+    {
+      "labelGroup": "Группа 4",
+      "descriptionGroup": "В группе представлены органайзеры среднего габарита. Одного размера.  Имеют от трёх до девяти выдвижных ячеек. Каждый из представленных органайзеров может стыковаться как сам с собой так и с другими органайзерами из группы.",
+      "urlProduct": "group4",
+      "listProducts": [
+        {
+          "label": "Контейнер 1",
+          "urlImage": "https://ami.by/images/catalogue/items/box_pb104_0.jpg",
+          "urlProduct": "контейнер1",
+          "code": "1.2"
+        },
+        {
+          "label": "Контейнер 2",
+          "urlImage": "https://ami.by/images/catalogue/items/box_pb104_0.jpg",
+          "urlProduct": "контейнер2",
+          "code": "1.2"
+        },
+        {
+          "label": "Контейнер 3",
+          "urlImage": "https://ami.by/images/catalogue/items/box_pb104_0.jpg",
+          "urlProduct": "контейнер3",
+          "code": "1.2"
+        }
+      ]
+    }
+  ]
+}

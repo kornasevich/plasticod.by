@@ -2,10 +2,10 @@
   "name": "plasticod.by-node",
   "version": "1.0.0",
   "description": "full stack vue and express app",
-  "main": "server/index.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server/index.js",
-    "dev": "node_modules/.bin/nodemon server/index.js"
+    "start": "node index.js",
+    "dev": "node_modules/.bin/nodemon index.js"
   },
   "author": "Nikita Kornasevich",
   "license": "ISC",
